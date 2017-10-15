@@ -30,6 +30,7 @@
 
 import UIKit
 
+// Add some notes: maxScaleOffset controls the distance of maximum scale.
 private let maxScaleOffset: CGFloat = 200
 private let minScale: CGFloat = 0.9
 private let minAlpha: CGFloat = 0.3
